@@ -14,7 +14,7 @@ Dans cette formation de Laurent N'Daw, qui s'adresse aux développeurs en PHP, v
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/php-l-architecture-mvc
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQE66TkhXMPJPA/learning-public-crop_675_1200/0/1715155600295?e=2147483647&v=beta&t=6LeAFWlBusT0FmS0EYPwNxboKu_FBTOwXm0sp1AskHk
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQEk19h5e323xA/learning-public-crop_675_1200/0/1715156958874?e=2147483647&v=beta&t=YS3hD0_-_hJP07FQNpfdxqp00msHZSjZYwajFoPdw8Q
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/laurent-n-daw
 
 [1]: # (End of FR-Instruction ###############################################################################################)
